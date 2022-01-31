@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me **spofficial@gmail.com**\
+- 📫 How to reach me **spofficial@gmail.com**
 
 <br>
 <br>
