@@ -57,21 +57,22 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
+  <!-- <div align=center> -->
+      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=shubh4122&theme=react-dark&bg_color=20232a&hide_border=true" title="Contributin Graph"/>
+    <br><br>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Total Contributions">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shubh4122&theme=react&border=61dafb&hide_border=true" alt="shubh4122" />
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shubh4122&theme=react&border=61dafb&hide_border=true" alt="shubh4122" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Github Stats">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=shubh4122&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=shubh4122&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
-  <br><br><br><br><br><br><br><br>
-  <div align=center>
+  <!-- </div> -->
+  <br><br>
+  <!-- <div align=center> -->
     <a title="Most Used Langs" href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4122&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=390 align="cemter" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh4122&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-      <img width=390 align="left" src="https://activity-graph.herokuapp.com/graph?username=shubh4122&theme=react-dark&bg_color=20232a&hide_border=true" title="Contributin Graph"/>
-  </div>
+  <!-- </div> -->
 </p>
 <hr>
 
