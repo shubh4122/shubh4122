@@ -43,7 +43,7 @@
   <code><img title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
   <code><img title="BootStrap" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"></code>
   <code><img title="JS" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"></code>
-  <code><img title="Visual Studio Code" height="40" src="https://cdn.thenewstack.io/media/2021/10/4f0ac3e0-visual_studio_code.png"></code>
+  <code><img title="Visual Studio Code" height="40" src="img/vscode.png"></code>
   <code><img title="Git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <code><img title="Figma" height="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"></code>
   <code><img title="Linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
