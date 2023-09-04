@@ -23,7 +23,7 @@
   <br><br>
   - 🔬 I love making stuff and experimenting with various technologies.
   <br><br>
-  - 📫 How to reach me: spofficial@gmail.com<br><br><br>
+  - 📫 How to reach me: spofficial4122@gmail.com<br><br><br>
 
 
 <!-- <hr> -->
